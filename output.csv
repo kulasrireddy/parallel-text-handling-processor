@@ -1,0 +1,101 @@
+Filename,Review,Sentiment,Score
+reviews1.txt,This product is excellent and amazing,Positive,1
+reviews5.txt,Amazing camera quality,Positive,1
+reviews4.txt,Excellent build quality,Positive,1
+reviews3.txt,The material quality is poor,Negative,-1
+reviews1.txt,The quality is very good,Positive,1
+reviews2.txt,Worst product I have ever bought,Negative,-1
+reviews5.txt,Worst delivery service,Negative,-1
+reviews4.txt,The product is bad,Negative,-1
+reviews3.txt,Very good performance,Positive,1
+reviews2.txt,Amazing features and excellent battery life,Positive,1
+reviews1.txt,Very bad experience,Negative,-1
+reviews5.txt,The product is good but packaging was bad,Positive,1
+reviews4.txt,Good value,Positive,1
+reviews3.txt,Absolutely amazing experience,Positive,1
+reviews2.txt,Customer support was bad,Negative,-1
+reviews1.txt,Packaging was poor,Negative,-1
+reviews4.txt,Poor service,Negative,-1
+reviews5.txt,Excellent support team,Positive,1
+reviews3.txt,Worst purchase,Negative,-1
+reviews2.txt,It works fine,Neutral,0
+reviews1.txt,Overall performance is good,Positive,1
+reviews4.txt,Satisfied with the purchase,Neutral,0
+reviews5.txt,It is okay,Neutral,0
+reviews3.txt,Average product,Neutral,0
+reviews2.txt,Good value for money,Positive,1
+reviews1.txt,Amazing battery backup,Positive,1
+reviews4.txt,Amazing performance,Positive,1
+reviews5.txt,Very good display,Positive,1
+reviews3.txt,Excellent display quality,Positive,1
+reviews1.txt,Worst purchase ever,Negative,-1
+reviews2.txt,Poor service center response,Negative,-1
+reviews4.txt,Worst app experience,Negative,-1
+reviews5.txt,Poor charging speed,Negative,-1
+reviews3.txt,Bad battery life,Negative,-1
+reviews2.txt,The build quality is excellent,Positive,1
+reviews1.txt,The design is good,Positive,1
+reviews4.txt,Very good customer support,Positive,1
+reviews5.txt,Worst replacement policy,Negative,-1
+reviews3.txt,Good performance overall,Positive,1
+reviews2.txt,Very bad experience with shipping,Negative,-1
+reviews1.txt,Customer support was bad,Negative,-1
+reviews4.txt,Bad sound quality,Negative,-1
+reviews5.txt,Amazing sound clarity,Positive,1
+reviews3.txt,Poor support team,Negative,-1
+reviews2.txt,Amazing sound quality,Positive,1
+reviews1.txt,It works fine,Neutral,0
+reviews4.txt,Excellent finishing,Positive,1
+reviews5.txt,Good product for daily use,Positive,1
+reviews3.txt,Amazing look and feel,Positive,1
+reviews1.txt,Excellent value for money,Positive,1
+reviews2.txt,Good design and performance,Positive,1
+reviews5.txt,Bad connectivity issue,Negative,-1
+reviews4.txt,Poor quality material,Negative,-1
+reviews3.txt,Worst installation service,Negative,-1
+reviews1.txt,Poor finishing,Negative,-1
+reviews2.txt,Worst customer care,Negative,-1
+reviews5.txt,Excellent performance,Positive,1
+reviews4.txt,Good battery life,Positive,1
+reviews3.txt,Very good price,Positive,1
+reviews1.txt,Good material quality,Positive,1
+reviews2.txt,Excellent packaging,Positive,1
+reviews5.txt,Poor heat management,Negative,-1
+reviews4.txt,Worst product design,Negative,-1
+reviews1.txt,Worst delivery service,Negative,-1
+reviews3.txt,Excellent build,Positive,1
+reviews2.txt,The product is average,Neutral,0
+reviews5.txt,Worst customer service,Negative,-1
+reviews4.txt,Amazing screen clarity,Positive,1
+reviews1.txt,Absolutely amazing product,Positive,1
+reviews3.txt,Bad experience with refund,Negative,-1
+reviews2.txt,Poor material used,Negative,-1
+reviews5.txt,Very good build,Positive,1
+reviews4.txt,Very bad experience,Negative,-1
+reviews1.txt,Not worth the price,Neutral,0
+reviews2.txt,Very good finishing,Positive,1
+reviews3.txt,Good speed,Positive,1
+reviews5.txt,Amazing design,Positive,1
+reviews4.txt,Excellent price range,Positive,1
+reviews1.txt,Very good performance,Positive,1
+reviews2.txt,Bad replacement process,Negative,-1
+reviews3.txt,Poor delivery packaging,Negative,-1
+reviews5.txt,Good overall experience,Positive,1
+reviews4.txt,Good durability,Positive,1
+reviews1.txt,Bad packaging quality,Negative,-1
+reviews2.txt,Amazing camera quality,Positive,1
+reviews3.txt,Amazing product quality,Positive,1
+reviews5.txt,Bad experience with warranty,Negative,-1
+reviews4.txt,Poor instructions manual,Negative,-1
+reviews1.txt,Excellent features,Positive,1
+reviews3.txt,Worst product support,Negative,-1
+reviews2.txt,Good product overall,Positive,1
+reviews5.txt,Excellent battery performance,Positive,1
+reviews4.txt,Worst packaging,Negative,-1
+reviews1.txt,Average experience,Neutral,0
+reviews2.txt,Worst experience,Negative,-1
+reviews3.txt,Excellent service,Positive,1
+reviews5.txt,Poor quality accessories,Negative,-1
+reviews4.txt,Amazing features,Positive,1
+reviews2.txt,Excellent durability,Positive,1
+reviews3.txt,It is okay,Neutral,0
