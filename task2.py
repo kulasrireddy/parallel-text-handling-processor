@@ -1,7 +1,7 @@
 import sqlite3
 
 # Create / Connect to database
-conn = sqlite3.connect("college.db")
+conn = sqlite3.connect("students.db")
 
 cursor = conn.cursor()
 
@@ -40,5 +40,6 @@ conn.commit()
 # Fetch data
 cursor.execute("SELECT * FROM students")
 print(cursor.fetchall())
+
 
 conn.close()
