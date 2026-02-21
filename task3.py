@@ -83,7 +83,10 @@ def process_review(line):
         actual_rating = item.get("overall", None)
         unix_time = item.get("unixReviewTime")
 
-        timestamp = datetime.fromtimestamp(unix_time) if unix_time else datetime.now()
+        if unix_time:
+            timestamp = datetime.fromtimestamp(unix_time).strftime("%Y-%m-%d %H:%M:%S")
+        else:
+            timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         review_id = f"{reviewer_id}_{unix_time}"
 
@@ -312,4 +315,5 @@ def process_dataset(file_path):
 
 
 if __name__ == "__main__":
+
     process_dataset("Cell_Phones_and_Accessories_5.json")
