@@ -32,3 +32,30 @@ It also saves all results to an `output.csv` file and compares performance.
 3. Runs single processing (one file after another)
 4. Runs multiprocessing (parallel processes)
 5. Saves output and compares time.
+
+
+📘 task2 – SQLite Students Database Project
+📌 Project Overview
+
+This project demonstrates how to:
+Create a SQLite database using Python
+Create a table
+Insert records into the table
+Retrieve and display stored data
+It is a beginner-friendly database project using Python’s built-in sqlite3 module.
+
+🛠 Technologies Used
+Python 3
+SQLite
+
+sqlite3 (Built-in Python Library)
+🗄 Database Information
+Database Name: students.db
+Table Name: students
+📋 Table Structure
+Column	Data Type	Description
+id	      INTEGER	   Primary Key (Auto Increment)
+name	   TEXT	      Student Name
+age	   INTEGER	   Student Age
+course	TEXT	      Course Name
+
