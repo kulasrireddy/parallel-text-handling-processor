@@ -2,7 +2,7 @@
 
 This Python project demonstrates the **difference between single processing and multiprocessing** using text file sentiment analysis.
 
-## 🧠 Task1 Overview
+📘Task1 : difference between single processing and multiprocessing
 
 The program:
 
@@ -58,4 +58,40 @@ id	      INTEGER	   Primary Key (Auto Increment)
 name	   TEXT	      Student Name
 age	   INTEGER	   Student Age
 course	TEXT	      Course Name
+
+📘 Task 3 – Sentiment Analysis on Amazon Product Reviews
+📌 Project Overview
+
+This project performs Rule-Based Sentiment Analysis on Amazon product reviews.
+The dataset was taken from Kaggle (Amazon Product Reviews dataset).
+The system:  Classifies reviews as Positive, Negative, or Neutral 
+             Detects refund-related reviews
+             Handles negation words like “not good”
+             Stores results in a SQLite database
+
+📂 Dataset
+Source: Kaggle
+Dataset: Amazon Product Reviews
+Type: Text review data
+
+🚀 Features
+Text cleaning (lowercase + remove special characters)
+Weighted sentiment scoring
+Negation handling
+Refund pattern detection
+Multiprocessing for faster execution
+SQLite database storage
+
+Stored fields:
+Review text
+Sentiment (Positive / Negative / Neutral)
+Refund flag (True / False)
+Timestamp
+
+🛠 Technologies Used
+Python
+SQLite
+Regular Expressions
+Multiprocessing
+
 
