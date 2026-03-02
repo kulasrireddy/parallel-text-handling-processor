@@ -144,3 +144,43 @@ To improve query performance.
 The same queries are executed again after indexing.
 The new execution time is recorded as Query Time (After Optimization).
 Performance improvement is then calculated and compared.
+
+📂Task 5: Multi File Viewer(textuploader)
+Project Description
+This project is a web application built using Streamlit.
+It allows users to upload different types of files and view their content in one place.
+
+After uploading files, the file names appear on the left side, and when a file is selected, its content is shown on the right side.
+What This App Can Do
+Upload multiple files at the same time
+View text files
+Read PDF documents
+Open Word documents
+Display Excel and CSV files as tables
+Easily switch between uploaded files
+
+Tools Used
+Python
+Streamlit
+Pandas
+PDF reader library
+Word document reader library
+
+How the App Works
+The user uploads files using the upload option.
+Uploaded files are listed on the left side.
+The user selects a file from the list.
+The app shows the file content on the right side.
+
+Purpose of This Project
+This project helps in learning:
+File handling in Python
+Building web apps using Streamlit
+Working with different file formats
+Creating interactive user interfaces
+
+Future Improvements
+Add search inside files
+Add document summary feature
+Support more file formats
+Improve user interface design
